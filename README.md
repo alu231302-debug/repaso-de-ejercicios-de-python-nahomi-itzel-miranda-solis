@@ -1,1 +1,1 @@
-# repaso-de-ejercicios-de-python-nahomi-itzel-miranda-solis
+# repaso-de-ejercicios-de-python-
